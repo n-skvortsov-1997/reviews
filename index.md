@@ -332,7 +332,7 @@ It’s interesting that the author of the language does not [see the point](http
 
 Thus, from all of the above, we can conclude that `autofree` is a very crude technology. The author of the language tried to promote it through that video, and judging by the comments he succeeded, I don’t understand why people believe him, because a simple test shows that even simple programs leak as hell. 
 
-**After 5 years, the most interesting feature of V is still in a very early state, and the author does nothing but promise that everything will happen soon.**
+**After almost 5 years, the most interesting feature of V is still in a very early state, and the author does nothing but promise that everything will happen soon.**
 
 It is already clear that the author of the language and his loyal followers will begin to say that `autofree` is not yet production ready, but the problems that I described above even for the very first alpha version are unacceptable.
 
